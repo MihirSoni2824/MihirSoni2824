@@ -55,14 +55,15 @@ fun_fact: "I don't know coding, coding knows me 😅"
 <div align="center">
 
 ```text
-┌─────────────────────────────────────────────────────────────────────────────┐
-│                                                                             │
-│   📊 Data Engineering Intern          ──────►    📈 Data Analyst Intern    │
-│   Avance HealthCare Pvt. Ltd.                    Mainflow Services         │
-│   Jul 2024 - Dec 2024                            Jan 2025 - Present        │
-│   Rajkot, India                                  Noida, India              │
-│                                                                             │
-└─────────────────────────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────────────────────────────────┐
+│                                                                                          │
+│   📊 Data Engineering Intern    ──►   📈 Data Analyst Intern    ──►   🤖 AI/ML Intern   │
+│   Avance HealthCare Pvt. Ltd.        Mainflow Services                Multiicon          │
+│   Jul 2024 - Dec 2024                Jan 2025 - Present               Sep 2024 - Present │
+│   Rajkot, India                      Noida, India                     Rajkot, India      │
+│                                                                        (On-Site)         │
+│                                                                                          │
+└───────────────────────────────────────────────────────────────────────────────────────── ┘
 ```
 
 </div>
@@ -125,8 +126,7 @@ fun_fact: "I don't know coding, coding knows me 😅"
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mihirsoni2824&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Mihir Soni github stats" />
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsoni2824&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+  <img src="https://github.com/mihirsoni2824/mihirsoni2824/blob/main/github-metrics.svg" alt="Metrics" />
 </div>
 
 <br/>
@@ -162,36 +162,8 @@ fun_fact: "I don't know coding, coding knows me 😅"
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mihirsoni2824&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+  <img src="https://github-trophies.vercel.app/?username=mihirsoni2824&theme=discord&no-frame=true&margin-w=15&margin-h=15&column=7" alt="Trophies" />
 </div>
-
-<br/>
-
-<!-- Featured Projects -->
-## 🚀 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/mihirsoni2824/student-attendance-system">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mihirsoni2824&repo=student-attendance-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-  <a href="https://github.com/mihirsoni2824/cloud-native-deployment">
-    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mihirsoni2824&repo=cloud-native-deployment&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  </a>
-</div>
-
-<br/>
-
-<details>
-  <summary>🔍 More About My Projects (Click to expand)</summary>
-  <br/>
-
-| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|---------------|---------------|
-| Student Attendance System | Automated attendance tracking using facial recognition | Python, OpenCV, Deepface, TensorFlow |
-| Cloud-Native Deployment Framework | Reusable framework for deploying microservices on K8s | Kubernetes, Helm, AWS, GitOps |
-| Student Grade Analysis Dashboard | Interactive dashboard for student grade analysis | Python, Streamlit, Pandas, Matplotlib |
-
-</details>
 
 <br/>
 
@@ -235,10 +207,14 @@ fun_fact: "I don't know coding, coding knows me 😅"
 <br/>
 
 <!-- Spotify Playing -->
-## 🎵 Vibing To
+## 🎵 Currently Learning & Exploring
 
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6A5ACD&bar_color_cover=true" alt="Spotify" />
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Learning" />
+  
+  **🔍 Current Focus Areas:**
+  
+  `🚀 Kubernetes Operators` • `☁️ AWS Advanced Services` • `📊 Data Pipeline Optimization`
 </div>
 
 <br/>
