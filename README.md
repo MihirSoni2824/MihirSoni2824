@@ -1,27 +1,286 @@
-<h1 align="center">Hi 👋, I'm 𝙼𝙸𝙷𝙸𝚁 𝙿𝙰𝚃𝙰𝙳𝙸𝚈𝙰</h1>
-<h3 align="center">🚀 **Software Engineer** | 💻 **Python Enthusiast** | 🌟 **Open Source Contributor** Passionate about building scalable, efficient, and innovative solutions. Always learning and exploring new technologies to solve real-world problems.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=MIHIR%20PATADIYA&fontSize=90&animation=fadeIn&fontAlignY=35&desc=DevOps%20Engineer%20%7C%20Cloud%20Architect%20%7C%20Data%20Enthusiast&descAlignY=55&descAlign=62" />
+</div>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mihirsoni2824" alt="mihirsoni2824" /></a> </p>
-
-- 🔭 I’m currently working on **Android Chatting App**
-
-- 🌱 I’m currently learning **DevOps, Kubernetes, AI / ML**
-
-- 💬 Ask me about **Python, DevOps, Cloud Computing**
-
-- 📫 How to reach me **mihirsonii.2003@gmail.com**
-
-- ⚡ Fun fact **I don't know coding, coding knows me 😅**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/mihir_soni_2824" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mihir_soni_2824" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mihir soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihir soni" height="30" width="40" /></a>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=1000&color=6A5ACD&center=true&vCenter=true&multiline=false&repeat=true&width=900&lines=Building+Scalable+Cloud+Infrastructure+%F0%9F%9A%80;Orchestrating+Kubernetes+at+Scale+%E2%98%B8%EF%B8%8F;Automating+Everything+with+DevOps+%F0%9F%94%A7;Turning+Data+into+Insights+%F0%9F%93%8A" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<!-- Profile Views & Social Badges -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mihirsoni2824&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://linkedin.com/in/MihirSoni"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/mihir_soni_2824"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+  <a href="https://mihirsoni2824.framer.website"><img src="https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:mihirsonii.2003@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirsoni2824&show_icons=true&locale=en&layout=compact" alt="mihirsoni2824" /></p>
+<!-- Animated Divider -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirsoni2824&" alt="mihirsoni2824" /></p>
+<br/>
+
+<!-- About Me Section -->
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+
+<img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="Coding gif"/>
+
+```yaml
+name: Mihir Soni
+location: Rajkot, India 🇮🇳
+current_role: Data Analyst Engineering Intern @ Mainflow
+education: B.Tech IT @ Atmiya University (CGPA: 9.6/10)
+
+currently_working_on:
+  - Building ETL pipelines for large-scale data processing
+  - Implementing GitOps with ArgoCD for K8s deployments
+  - Optimizing cloud infrastructure on AWS
+
+currently_learning:
+  - Advanced Kubernetes patterns
+  - MLOps and AI/ML pipelines
+  - Cloud-native security best practices
+
+fun_fact: "I don't know coding, coding knows me 😅"
+```
+
+<br clear="both"/>
+
+<!-- Experience Timeline -->
+## 🌟 Experience Journey
+
+<div align="center">
+
+```text
+┌─────────────────────────────────────────────────────────────────────────────┐
+│                                                                             │
+│   📊 Data Engineering Intern          ──────►    📈 Data Analyst Intern    │
+│   Avance HealthCare Pvt. Ltd.                    Mainflow Services         │
+│   Jul 2024 - Dec 2024                            Jan 2025 - Present        │
+│   Rajkot, India                                  Noida, India              │
+│                                                                             │
+└─────────────────────────────────────────────────────────────────────────────┘
+```
+
+</div>
+
+<br/>
+
+<!-- Tech Stack with Animation -->
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> Tech Arsenal
+
+<div align="center">
+
+### ☁️ Cloud & DevOps
+
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900" alt="AWS" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" />
+  <img src="https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white" alt="ArgoCD" />
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+  <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm" />
+</p>
+
+### 💻 Languages & Frameworks
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+</p>
+
+### 📊 Data & Analytics
+
+<p>
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white" alt="Snowflake" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="Redshift" />
+</p>
+
+### 🛠️ Tools & Monitoring
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" alt="Prometheus" />
+  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+</p>
+
+</div>
+
+<br/>
+
+<!-- GitHub Stats with Custom Theme -->
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=mihirsoni2824&show_icons=true&count_private=true&hide_border=true&title_color=6A5ACD&icon_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Mihir Soni github stats" />
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mihirsoni2824&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Contribution Streak -->
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirsoni2824&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" alt="Streak Stats" />
+</div>
+
+<br/>
+
+<!-- Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mihirsoni2824&custom_title=Mihir's%20Contribution%20Graph&bg_color=0d1117&color=6A5ACD&line=6A5ACD&point=ff9494&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<br/>
+
+<!-- Snake Animation -->
+## 🐍 Watch the Snake Eat My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mihirsoni2824/mihirsoni2824/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mihirsoni2824/mihirsoni2824/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/mihirsoni2824/mihirsoni2824/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<br/>
+
+<!-- Trophy Section -->
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mihirsoni2824&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1&column=7" alt="Trophies" />
+</div>
+
+<br/>
+
+<!-- Featured Projects -->
+## 🚀 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/mihirsoni2824/student-attendance-system">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mihirsoni2824&repo=student-attendance-system&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+  <a href="https://github.com/mihirsoni2824/cloud-native-deployment">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=mihirsoni2824&repo=cloud-native-deployment&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  </a>
+</div>
+
+<br/>
+
+<details>
+  <summary>🔍 More About My Projects (Click to expand)</summary>
+  <br/>
+
+| 🎯 Project | 📝 Description | 🛠️ Tech Stack |
+|-----------|---------------|---------------|
+| Student Attendance System | Automated attendance tracking using facial recognition | Python, OpenCV, Deepface, TensorFlow |
+| Cloud-Native Deployment Framework | Reusable framework for deploying microservices on K8s | Kubernetes, Helm, AWS, GitOps |
+| Student Grade Analysis Dashboard | Interactive dashboard for student grade analysis | Python, Streamlit, Pandas, Matplotlib |
+
+</details>
+
+<br/>
+
+<!-- Certifications & Achievements -->
+## 🎯 Achievements & Certifications
+
+<div align="center">
+
+| 🏅 Achievement | 📅 Year | 🏢 Organization |
+|---------------|---------|----------------|
+| 🥈 Du Hacks Hackathon Runner-Up | 2025 | Innovative Student Attendance System |
+| 🏆 Dewang Mehta Award - Top Ranker | 2023-2024 | Atmiya University |
+| ☁️ AWS Academy ML Foundations | 2024 | Amazon Web Services |
+| 🔶 OCI Foundations Associate | 2023 | Oracle |
+
+</div>
+
+<br/>
+
+<!-- Publications & Speaking -->
+## 📚 Publications & Talks
+
+<div align="center">
+
+| 📖 Title | 🎤 Type | 📅 Date |
+|---------|---------|---------|
+| Privacy Protecting Techniques in Computer Science | Research Publication | 2024 |
+| Modern Technology Trends | GDC Yearly Meetup Speaker | Feb 2025 |
+
+</div>
+
+<br/>
+
+<!-- Random Dev Quote -->
+## 💭 Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<br/>
+
+<!-- Spotify Playing -->
+## 🎵 Vibing To
+
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=6A5ACD&bar_color_cover=true" alt="Spotify" />
+</div>
+
+<br/>
+
+<!-- Connect Section -->
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="mailto:mihirsonii.2003@gmail.com">
+  <img src="https://img.shields.io/badge/Email-mihirsonii.2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://linkedin.com/in/MihirSoni">
+  <img src="https://img.shields.io/badge/LinkedIn-Mihir%20Soni-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://mihirsoni2824.framer.website">
+  <img src="https://img.shields.io/badge/Portfolio-mihirsoni2824.framer.website-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+
+<br/><br/>
+
+### 💬 *"The best way to predict the future is to create it."* – Peter Drucker
+
+</div>
+
+<br/>
+
+<!-- Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer" />
+
+<div align="center">
+
+### ⭐ If you like my work, consider giving a star to my repositories!
+
+<br/>
+
+**Thanks for visiting!** 😊 👋
+
+<br/>
+
+<img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+
+</div>
